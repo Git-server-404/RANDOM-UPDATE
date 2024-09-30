@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=2.0,width=1080,height=1920};FBLC/en_US;FBRV/235412020;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1715;FBSV/7.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 11; U319AA Build/RP1A.200720.011) [FBAN/FB4A;FBAV/407.0.0.30.97;FBPN/com.facebook.katana;FBLC/en_US;FBBV/458543263;FBCR/AT&amp;amp- T;FBMF/TINNO;FBBD/ATT;FBDV/U319AA;FBSV/11;FBCA/armeabi- v7a:armeabi;FBDM/{density=1.875,width=720,height=1350};FB_FW/1;FBRV/0;]
